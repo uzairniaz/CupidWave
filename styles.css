@@ -188,3 +188,21 @@ h2{
 }
 
 /* TESTIMONIALS SECTION ENDS HERE */
+
+
+/* PRESS SECTION */
+
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding: 5% 4%;
+}
+
+
+.press-logo
+{
+  width: 16%;
+margin: 0 1%;
+}
+
+/* PRESS SECTION ENDS */
