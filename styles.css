@@ -95,3 +95,47 @@ h1
 }
 
 /* TITLE SECTION ENDS HERE */
+
+
+/* FEATURES SECTION */
+#features{
+  background-color: #ffff;
+  padding: 7% 15%;
+}
+
+
+.fa{
+  color: #ef8172;
+}
+
+
+.fa:hover{
+  color: #ff4c68;
+}
+
+
+.feat-card{
+  padding: 3% 5%;
+}
+
+
+.col-lg-4{
+  padding: 10% 5% 0;
+  text-align: center;
+}
+
+
+h3{
+
+  font-size: 1.5rem;
+  padding: 5% 0 3%;
+}
+
+
+p{
+  color: #8f8f8f;
+  line-height: 1.5;
+  font-weight: lighter;
+}
+
+/* FEATURES SECTION ENDS HERE */
