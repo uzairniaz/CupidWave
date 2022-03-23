@@ -151,3 +151,40 @@ p{
 }
 
 /* FEATURES SECTION ENDS HERE */
+
+
+/* TESTIMONIALS SECTION */
+
+#testimonials{
+background-color: #ef8172;
+text-align: center;
+color: #ffff;
+}
+
+
+h2{
+
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+
+.testimonial-text{
+  font-size: 1.5rem;
+  padding: 0 5%;
+  margin-bottom: 3%;
+}
+
+
+.testimonials-img{
+  width: 15%;
+  border-radius: 100%;
+  padding: 2.5%;
+}
+
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+/* TESTIMONIALS SECTION ENDS HERE */
