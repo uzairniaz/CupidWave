@@ -1,0 +1,97 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+
+/* TITLE SECTION */
+#title{
+  background-image: url(images/body3.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+h1
+{
+  font-family: 'Montserrat', sans-serif;
+  color: #ffff;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+
+#navbar-container{
+  padding: 0.4% 13% 0.4% 15%;
+}
+
+
+.navbar-brand{
+  font-size: 2rem;
+  font-weight: 100;
+}
+
+
+.nav-item{
+  padding: 0 6% 0 6%;
+}
+
+
+#col-lg-6{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  text-align: center;
+}
+
+
+#login-column{
+  padding: 5% 9%;
+}
+
+
+.login{
+  text-align: center;
+  color: #ffff;
+}
+
+
+.btn-login{
+  background-color: #ff4c68;
+  border-color: #ff4c68;
+}
+
+
+.btn-login:hover{
+  background-color: #ef8172;
+  border-color: #ff4c68;
+}
+
+
+.login-web{
+  font-size: 2rem;
+}
+
+
+.form-control{
+  margin: 1.5% 0;
+}
+
+
+.forgot{
+  display: block;
+  padding: 5px 0;
+  font-family: sans-serif;
+}
+
+
+.download-button{
+  margin: 2% 4% 0 0;
+}
+
+/* TITLE SECTION ENDS HERE */
