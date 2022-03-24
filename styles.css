@@ -206,3 +206,24 @@ margin: 0 1%;
 }
 
 /* PRESS SECTION ENDS */
+
+
+/* PRICING SECTION  */
+
+#pricing{
+  text-align: center;
+  padding-top: 5%;
+}
+
+
+.pricing-header{
+  padding:0;
+}
+
+
+span{
+  font-family: sans-serif;
+  font-size: 1rem;
+}
+
+/* PRICING SECTION ENDS */
