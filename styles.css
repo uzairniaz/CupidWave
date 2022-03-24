@@ -227,3 +227,22 @@ span{
 }
 
 /* PRICING SECTION ENDS */
+
+
+/* CALL TO ACTION SECTION  */
+
+#cta{
+  text-align: center;
+  background-color: #ff4c68;
+  padding: 15% 14%;
+  margin-top: 5%;
+}
+
+
+.cta{
+  font-size: 3rem;
+  color: #ffff;
+}
+
+
+/* CALL TO ACTION SECTION ENDS */
