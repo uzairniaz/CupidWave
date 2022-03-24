@@ -246,3 +246,30 @@ span{
 
 
 /* CALL TO ACTION SECTION ENDS */
+
+
+/* FOOTER SECTION  */
+
+#footer{
+  background-color: #ffff;
+  text-align: center;
+  padding: 10% 0;
+}
+
+
+.fi{
+  padding: 2% 1%;
+}
+
+
+.btn-light{
+  background-color: #ffff;
+  border-style: none;
+}
+
+
+h5{
+  padding-bottom: 1%;
+}
+
+/* FOOTER SECTION ENDS */
